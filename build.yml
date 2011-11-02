@@ -1,0 +1,29 @@
+--- 
+extensions:
+- json
+- another-extension
+name: geo-contact
+wp:
+  productid: 685203f0-e0e4-012e-2d12-60c54789b794
+bbver: 4.6
+sdk: /Users/bhanu/.gems/gems/rhodes-3.2.1
+applog: rholog.txt
+build: debug
+wmsdk: Windows Mobile 6 Professional SDK (ARMV4I)
+version: 1.0
+symbian: 
+  uid: "0xef157cff"
+vendor: rhomobile
+sdkversion: 3.1.0
+android:
+  apikey: 0ouTrGxGzENd8jK-uPlbbTMNB2vuROCFBr4y5ug
+  mapping: true
+  version: 2.3.3
+iphone:
+  BundleURLScheme: geo-contact
+  provisionprofile: 
+  BundleIdentifier: com.rhomobile.geo-contact
+  sdk: iphonesimulator4.3
+  entitlements: 
+  codesignidentity: 
+  configuration: Release
